@@ -10,3 +10,9 @@ In this Responsive Web Design Certification, you'll learn the languages that dev
 ## project 2
 ### [Learn HTML Forms by Building a Registration Form](https://github.com/ousmanabakar/Responsive-Web-Design-freecodecamp/tree/main/Registration%20Form)
 <img src="https://user-images.githubusercontent.com/47245197/179521966-6f526a70-fa2a-4955-b923-1c4606bb9bc6.png">
+
+
+## project 3
+### [Build a Survey Form](https://github.com/ousmanabakar/Responsive-Web-Design-freecodecamp/tree/main/Survey%20Form)
+<img src="https://user-images.githubusercontent.com/47245197/179769595-e5399b10-1022-4733-bb8c-744652ef5f3b.png">
+
